@@ -1,0 +1,37 @@
+@model List<TravelNest.Models.Hotel.HotelRoomViewModel>
+
+    <!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="~/assets/css/styles.css">
+    <header>لیست هتل ها</header>
+</head>
+<body>
+    <div class="form-group">
+        <table class="table table-bordered table-striped">
+    <thead>
+    <tr>
+        <th>ردیف  </th>
+        <th>نام  </th>
+        <th>شهر  </th>
+        <th>قیمت به ازای هر شب  </th>
+    </tr>
+    </thead>
+    <tbody>
+    @{  int i=0;
+        foreach (var hotel in Model)
+        {
+            i++;
+            <tr>
+                <td> @i </td>
+                <td>@hotel.Name</td>
+                <td>@hotel.City</td>
+                <td>@hotel.PricePerNight</td>
+            </tr>
+            
+        }
+    }
+    </tbody>
+</table>
+    </div>
+</body>

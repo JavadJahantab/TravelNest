@@ -1,0 +1,37 @@
+@model List<TravelNest.Models.Flight.FlightViewModel>
+
+    <!DOCTYPE html>
+<html>
+<head>
+        <link rel="stylesheet" href="~/assets/css/styles.css">
+    <header>لیست پروازها</header>
+</head>
+<body>
+    <div class="form-group">
+        <table class="table table-bordered table-striped">
+    <thead>
+    <tr>
+        <th>ردیف  </th>
+        <th>مبدا </th>
+        <th>مقصد</th>
+        <th>قیمت</th>
+    </tr>
+    </thead>
+    <tbody>
+    @{
+        int i = 0;
+        foreach (var fly in Model)
+        {
+            i++;
+            <tr>
+                <td> @i </td>
+                <td>@fly.Origin</td>
+                <td>@fly.Destination</td>
+                <td>@fly.TicketPrice</td>
+            </tr>
+        }
+    }
+    </tbody>
+</table>
+    </div>
+</body>

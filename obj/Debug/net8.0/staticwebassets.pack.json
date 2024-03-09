@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\TravelNest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TravelNest.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TravelNest.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lightbox.css"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\css\\templatemo-travel-nest.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-travel-nest.css"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\Red-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Red-logo.png"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\Slide-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Slide-04.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\about-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-thumb-01.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\about-thumb-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-thumb-02.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\about-thumb-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-thumb-03.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\about-video-bg2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-video-bg2.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\assets\\images\\close.png"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Amsterdam.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Amsterdam.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Groningen.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Groningen.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Hauge.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Hauge.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Iceland1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Iceland1.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Iceland2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Iceland2.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Iceland3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Iceland3.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Iceland4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Iceland4.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Isfahan.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Isfahan.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Kermanshah.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Kermanshah.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Kish.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Kish.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Rotterdam.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Rotterdam.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Shiraz.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Shiraz.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Tehran.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Tehran.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Twente.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Twente.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Utrecht.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Utrecht.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Cities\\Yazd.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Cities\\Yazd.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Countries\\Iceland.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Countries\\Iceland.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Countries\\Iran.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Countries\\Iran.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Countries\\Netherlands.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Countries\\Netherlands.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Hotels\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Hotels\\1.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Hotels\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Hotels\\2.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Hotels\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Hotels\\3.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Hotels\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Hotels\\4.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Hotels\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Hotels\\5.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\Hotels\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\Hotels\\6.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\icon\\Iceland.png",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\icon\\Iceland.png"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\icon\\Netherlands.png",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\icon\\Netherlands.png"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\me\\icon\\iran.png",
+      "PackagePath": "staticwebassets\\assets\\images\\me\\icon\\iran.png"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\next.png",
+      "PackagePath": "staticwebassets\\assets\\images\\next.png"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\prev.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prev.png"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\reservation-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\reservation-bg.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\slide-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide-01.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\slide-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide-02.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\slide-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide-03.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\top-left-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-left-bg.jpg"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\images\\white-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\white-logo.png"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\assets\\js\\accordions.js"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datepicker.js"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\js\\imgfix.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imgfix.min.js"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\js\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lightbox.js"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.js"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\TravelNest\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TravelNest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TravelNest.props",
+      "PackagePath": "build\\TravelNest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TravelNest.props",
+      "PackagePath": "buildMultiTargeting\\TravelNest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TravelNest.props",
+      "PackagePath": "buildTransitive\\TravelNest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

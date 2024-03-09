@@ -1,0 +1,34 @@
+@model TravelNest.Models.Hotel.HotelTicketPurchaseModel
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="~/assets/css/styles.css">
+    <header>
+        <h1>رزرو هتل</h1>
+      </header>
+</head>
+<body>
+    <form id="reservationForm" style="display: none;">
+<div class="form-group">
+      <label for="passengerName">نام مسافر:</label>
+      <input type="text" class="form-control" id="passengerName" name="passengerName" asp-for="name">
+    </div>
+    <div class="form-group">
+      <label for="passengerName">نام خانوادگی مسافر:</label>
+      <input type="text" class="form-control" id="passengerName" name="passengerName" asp-for="lastname">
+    </div>
+    <div class="form-group">
+      <label for="nationalCode">کد ملی:</label>
+      <input type="text" class="form-control" id="nationalCode" name="nationalCode" asp-for="userid">
+    </div>
+    <div class="form-group">
+      <label for="nationalCode">شماره تماس:</label>
+      <input type="text" class="form-control" id="nationalCode" name="nationalCode" asp-for="phonnumber">
+    </div>
+    <button type="button" class="btn btn-success" onclick="reserveFlight()">رزرو</button>
+    </form>
+  <footer>
+    <p>TravelNest<br>Design by mohamad zeinalian</p>
+  </footer>
+  <script src="~/assets/js/scripts.js"></script>
+</body>
